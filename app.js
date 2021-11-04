@@ -4,7 +4,7 @@ const reviews = [
         name: "Sam Harrison",
         job: "Web Developer",
         img: "./images/person-1.png",
-        text: "1Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
 
     },
     {
@@ -12,14 +12,14 @@ const reviews = [
         name: "Julia Jhonsan",
         job: "UX Designer",
         img:"./images/person-2.png",
-        text: "2Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
     },
     {
         id: 3,
         name: "Marry Stone",
         job: "Full-Stack Developer",
         img: "./images/person-3.png",
-        text: "3Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "I am a Full Stack Web Developer with experience of more than 4+ years with specializing in Web-Development & Designing.",
 
     },
     {
@@ -27,7 +27,7 @@ const reviews = [
         name: "Rafael Hopkins",
         job: "Software engineer",
         img:"./images/person-4.png",
-        text: "4Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
     }
 ]
 const img = document.getElementById("person-img");
