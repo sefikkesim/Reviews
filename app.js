@@ -4,7 +4,7 @@ const reviews = [
         name: "Sam Harrison",
         job: "Web Developer",
         img: "./images/person-1.png",
-        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "I am a Web Developer with experience of more than 6 years with specializing in Web-Development & Designing.",
 
     },
     {
@@ -12,7 +12,7 @@ const reviews = [
         name: "Julia Jhonsan",
         job: "UX Designer",
         img:"./images/person-2.png",
-        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "I am a UX-Designer with experience of more than 2 years with specializing in Web-Development & Designing.",
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ const reviews = [
         name: "Rafael Hopkins",
         job: "Software engineer",
         img:"./images/person-4.png",
-        text: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto nobis molestiae mollitia ipsum, placeat voluptates? At necessitatibus voluptatem maiores itaque!",
+        text: "I am a Software engineer with experience of more than 3 years with specializing in programing languages.",
     }
 ]
 const img = document.getElementById("person-img");
