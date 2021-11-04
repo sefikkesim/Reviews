@@ -3,7 +3,7 @@ const reviews = [
         id: 1,
         name: "Sam Harrison",
         job: "Web Developer",
-        img: "./images/person-1.png",
+        img: "./images/person-1.PNG",
         text: "I am a Web Developer with experience of more than 6 years with specializing in Web-Development & Designing.",
 
     },
@@ -11,14 +11,14 @@ const reviews = [
         id: 2,
         name: "Julia Jhonsan",
         job: "UX Designer",
-        img:"./images/person-2.png",
+        img:"./images/person-2.PNG",
         text: "I am a UX-Designer with experience of more than 2 years with specializing in Web-Development & Designing.",
     },
     {
         id: 3,
         name: "Marry Stone",
         job: "Full-Stack Developer",
-        img: "./images/person-3.png",
+        img: "./images/person-3.PNG",
         text: "I am a Full Stack Web Developer with experience of more than 4+ years with specializing in Web-Development & Designing.",
 
     },
@@ -26,7 +26,7 @@ const reviews = [
         id: 4,
         name: "Rafael Hopkins",
         job: "Software engineer",
-        img:"./images/person-4.png",
+        img:"./images/person-4.PNG",
         text: "I am a Software engineer with experience of more than 3 years with specializing in programing languages.",
     }
 ]
